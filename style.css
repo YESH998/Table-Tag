@@ -24,6 +24,7 @@ td {
 }
 
 table {
+    background-color: cornsilk;
     border: 2px solid black;
     border-collapse: collapse;
 }
